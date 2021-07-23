@@ -42,7 +42,7 @@ path planning, vehicle dynamics, robotics, slam.
 -   ***more detatils*** :  [github.com/KimHyung/autonomous_exploration](https://github.com/KimHyung/autonomous_exploration)
 -   ***Result :*** IROS 2021 submit.
 
-<img src = "./projects/2021_autonomous_exploration/images/2.jpg" width="45%">
+<img src = "./projects/2020_autonomous_driving_contest/images/1.png" width="60%">
 
 ### 2020_autonomous_driving_contest
 -   ***Introduce :*** 도로인프라와 연계된 실도로 기반 자율주행 경진대회, 차량 무선통신 인프라(WAVE)와 연계하여 실도로 기반의 “자율주행 픽업서비스” 미션 수행, Autoware.ai(ros1) 기반으로 자율주행 시스템을 개발하였고 실차(Soul – Hyundai)에 적용하였습니다.
