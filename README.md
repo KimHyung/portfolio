@@ -90,13 +90,12 @@ YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고
 -   ***Result :*** 결선 진출.
 ----
 ## 지인 평가
-<!-- ### [양한솔](https://github.com/hansol-yang)(IoS/Android Backend Developer, [손스소프트](https://www.engflip.com/))
->얕고 넓게 신기술을 좇기보다는 한 가지 기술의 원리 파악 및 응용에 집중하는 편입니다. 따라서 대화를 할 때 그 깊이를 많이 체감하곤 합니다. 그리고 항상 본인의 실력을 가늠하기 위해 필드에서 빨리 적용해보고 각종 대회에서 열심히 검증받으려 합니다. 컴퓨터 이외에도 호기심을 자극하는 활동에 끊임없이 도전하는 모습에서 배움에 대한 열정 또한 대단하다고 생각합니다. 항상 겸손하고 예의 바른 모습도 보기 좋습니다. 화이팅입니다!!
-
+ ### [양한솔](https://github.com/hansol-yang)(IoS/Android Backend Developer, [손스소프트](https://www.engflip.com/))
+> 이새끼 졸라 잘함 걍 잘함 진영이 인정?
 ### [박진영](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(Autosar Developer, [Fandom Inc.]()))
->해커톤마니아. 매사에 전념해 항상 좋은 결과를 만듬
+>ㅇㅇ ㅇㅈㅇㅈ
 
-### [김동진](https://github.com/deeean/)(Backend Developer, [Kakao Bank]())
+<!--### [김동진](https://github.com/deeean/)(Backend Developer, [Kakao Bank]())
 > 뛰어난 커뮤니케이션을 바탕으로 도메인에 대한 이해를 매우 중요시하며 디자이너가 가질법한 섬세함까지 삼위일체를 가지고 있는 개발자라 생각합니다.
 
 ### [천보경](https://github.com/githubrat/)(DDD domain Developer, [RIDI]())
