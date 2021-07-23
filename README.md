@@ -90,7 +90,7 @@ YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고
 -   ***Result :*** 결선 진출.
 ----
 ## 지인 평가
-### [양한솔](https://github.com/hansol-yang)(IoS/Android Backend Developer, [손스소프트](https://www.engflip.com/))
+<!-- ### [양한솔](https://github.com/hansol-yang)(IoS/Android Backend Developer, [손스소프트](https://www.engflip.com/))
 >얕고 넓게 신기술을 좇기보다는 한 가지 기술의 원리 파악 및 응용에 집중하는 편입니다. 따라서 대화를 할 때 그 깊이를 많이 체감하곤 합니다. 그리고 항상 본인의 실력을 가늠하기 위해 필드에서 빨리 적용해보고 각종 대회에서 열심히 검증받으려 합니다. 컴퓨터 이외에도 호기심을 자극하는 활동에 끊임없이 도전하는 모습에서 배움에 대한 열정 또한 대단하다고 생각합니다. 항상 겸손하고 예의 바른 모습도 보기 좋습니다. 화이팅입니다!!
 
 ### [박진영](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(Autosar Developer, [Fandom Inc.]()))
@@ -115,6 +115,6 @@ YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고
 ### [정재욱](https://github.com/gglns94)(system engineer, [Samsung 전자]())
 > 1. 커뮤니케이션에 공을 들이는 게 느껴지는 사람. 섬세한 설명과 좋은 질문으로 함께 일 할 때 편하고 기분이 좋아지는 사람.
 > 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
-> 3. 귀엽다.
+> 3. 귀엽다. -->
 ---
  
