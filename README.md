@@ -89,11 +89,11 @@ YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고
 -   ***My role :*** Team leader, PM, vision-based autonomous algorithm.(contribution: 40%)
 -   ***Result :*** 결선 진출.
 ----
-## 지인 평가
- ### [양한솔](https://github.com/hansol-yang)(IoS/Android Backend Developer, [손스소프트](https://www.engflip.com/))
+<!-- ## 지인 평가
+ ### [양한솔](https://github.com/hansol-yang)(IOS/Android Front Developer, [SonsSoft](https://www.engflip.com/))
 > 이새끼 졸라 잘함 걍 잘함 진영이 인정?
 ### [박진영](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(Autosar Developer, [Fandom Inc.]()))
->ㅇㅇ ㅇㅈㅇㅈ
+>ㅇㅇ ㅇㅈㅇㅈ -->
 
 <!--### [김동진](https://github.com/deeean/)(Backend Developer, [Kakao Bank]())
 > 뛰어난 커뮤니케이션을 바탕으로 도메인에 대한 이해를 매우 중요시하며 디자이너가 가질법한 섬세함까지 삼위일체를 가지고 있는 개발자라 생각합니다.
