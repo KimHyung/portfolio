@@ -60,7 +60,7 @@ path planning, vehicle dynamics, robotics, slam.
 -   ***Term :*** 2018.3~2019.1
 -   ***Related technology :*** arduino, C, sensor data processing system.
 -   ***My role :*** Team leader, PM, sensor data processing system.(contribution: 40%)
--   ***more detatils*** :  [특허정보-kportal](http://kportal.kipris.or.kr/kportal/search/total_search.do)
+-   ***more detatils*** :  [특허정보-kportal, 10-2225213-0000](http://kportal.kipris.or.kr/kportal/search/total_search.do)
 -   ***Result :*** 국내특허 출원.
 
 <img src = "./projects/2017_embeded_software_contest/images/1.jpg" width="30.7%">
