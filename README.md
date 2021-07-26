@@ -76,9 +76,7 @@ Interested in autonomous system, path planning, robotics.
 -   ***more detatils*** :  [특허정보-kportal, 10-2225213-0000](http://kportal.kipris.or.kr/kportal/search/total_search.do)
 -   ***Result :*** 국내특허 출원.
 
-<img src = "./projects/2017_embeded_software_contest/images/1.jpg" width="30.7%">
-<img src = "./projects/2017_embeded_software_contest/images/2.jpg" width="28%">
-<img src = "./projects/2017_embeded_software_contest/images/3.jpg" width="34%">
+<img src = "./projects/2017_embeded_software_contest/images/4.png" width="">
 
 ### 2017_embeded_software_contest (자율주행 모형자동차 부문)
 -   ***Introduce :*** KESSIA, KEIT가 주관하고 현대자동차가 후원하는 제 15회 임베디드 소프트웨어 공모전 자율주행 모형자동차 부문에 참여하였다. 모형자동차에 부착된 비전센서를 데이터를 기반으로 openCV라이브러리를 통해 차선, 정지선, 신호등 등을 인식하여 주행하는 자율주행 시스템을 개발하였다. 
