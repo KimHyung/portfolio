@@ -85,31 +85,7 @@ Interested in autonomous system, path planning, robotics.
 -   ***My role :*** Team leader, PM, vision-based autonomous algorithm.(contribution: 40%)
 -   ***Result :*** 결선 진출.
 ---
-<!-- ## 지인 평가
- ### [양한솔](https://github.com/hansol-yang)(IOS/Android Front Developer, [SonsSoft](https://www.engflip.com/))
-> 이새끼 졸라 잘함 걍 잘함 진영이 인정?
-### [박진영](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(Autosar Developer, [Fandom Inc.]()))
->ㅇㅇ ㅇㅈㅇㅈ -->
-
-<!--### [김동진](https://github.com/deeean/)(Backend Developer, [Kakao Bank]())
-> 뛰어난 커뮤니케이션을 바탕으로 도메인에 대한 이해를 매우 중요시하며 디자이너가 가질법한 섬세함까지 삼위일체를 가지고 있는 개발자라 생각합니다.
-
-### [천보경](https://github.com/githubrat/)(DDD domain Developer, [RIDI]())
-> 해커톤 마니아. <br> 골치아픈 이슈들이 생겼을 때 여러번 도움을 받은 경험이 있습니다. 여러 상황에서 생길만한 이슈대응능력이 좋습니다.
-> <br> 관심갖는 모든 영역에 깊게 파고 듭니다.
-
-### [주승환](https://github.com/philographer/)(Backend Developer, [Naver Line Inc.]())
-> Fast Learner<br/>
-> 같은 소프트웨어 마에스트로 활동했던 동기, 그리고 해커톤 파트너로서 바라본 `JSpiner`는<br/>
-> 자신의 코드에서 개선할 점을 끊임없이 알아내려고 하며 빠르고 능동적으로 학습하는 멋진 개발자입니다.<br/>
-> 뿐만 아니라 주변 지인들로부터 항상 배우려는 자세와 태도를 가지고 있어서 앞으로의 성장이 더 기대됩니다.
-
-### [최본관](https://github.com/jangjunha/)(sw system Deveoper, [LG 전자]())
-> 개발자로서도 팀원으로서도 함께하고 싶은 사람입니다.
-
-### [정재욱](https://github.com/gglns94)(system engineer, [Samsung 전자]())
-> 1. 커뮤니케이션에 공을 들이는 게 느껴지는 사람. 섬세한 설명과 좋은 질문으로 함께 일 할 때 편하고 기분이 좋아지는 사람.
-> 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
-> 3. 귀엽다. -->
+##### 더 궁금한 사항이 있으시면 kty5989@gmail.com 으로 연락주세요.
+##### 
 ---
  
