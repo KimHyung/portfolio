@@ -11,22 +11,20 @@
 ```
 Interested in autonomous system, path planning, robotics.
 ```
------
+---
 ## Education
 -   Kyungpook National University(2019~2021), School of Electronics and Electrical Engineering(M.S)
 -   Kyungpook National University(2012~2019), School of Electronics Engineering(B.S)
 
-```
-학위기간동안...
+#### 학위기간동안...
 
-N-wheeled robot의 동역학, 차량제어 그리고 자율주행 시스템에 대해 공부하였고 자율주행에 필요한 센서 또는 시스템 구성요소에 대한 전반적인 지식을 쌓았습니다. 
+- N-wheeled robot의 동역학, 차량제어 그리고 자율주행 시스템에 대해 공부하였고 자율주행에 필요한 센서 또는 시스템 구성요소에 대한 전반적인 지식을 쌓았습니다. 
 
-개발한 알고리즘을 실제 로봇에 적용하기전에 Gazebo, Carla, Autoware 그리고 Airsim 등 다양한 시뮬레이터를 이용하여 알고리즘의 성능을 검증 및 테스트 할 수 있습니다.
+- 개발한 알고리즘을 실제 로봇에 적용하기전에 Gazebo, Carla, Autoware 그리고 Airsim 등 다양한 시뮬레이터를 이용하여 알고리즘의 성능을 검증 및 테스트 할 수 있습니다.
 
-개발한 알고리즘을 실제환경에서 실험하기 위해 turtlebot3, LEO, OMO robot과 같은 다양한 로봇 플랫폼을 사용하였습니다.
+- 개발한 알고리즘을 실제환경에서 실험하기 위해 turtlebot3, LEO, OMO robot과 같은 다양한 로봇 플랫폼을 사용하였습니다.
 
-YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고리즘에 대해 공부하였고 실습하였습니다.
-```
+- YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고리즘에 대해 공부하였고 실습하였습니다.
 ---
 ## Publications
 ### Domestic
@@ -41,14 +39,14 @@ YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고
 -   Frameworks : ROS
 -  Etc : Git, Slack
 
------
+---
 ## TODO
 -   ROS2
   
-----
+---
 ## Projects
-<img src = "./projects/2021_autonomous_exploration/images/1.jpg" width="47%">
-<img src = "./projects/2021_autonomous_exploration/images/2.jpg" width="45%">
+<img src = "./projects/2021_autonomous_exploration/images/1.jpg" width="60%">
+<img src = "./projects/2021_autonomous_exploration/images/2.jpg" width="60%">
 
 ### Autonomous exploration
 -   ***Introduce :*** Autonomous exploration strategy for a mobile robot with 2d-map segmentation and object detection in the cluttered environment.
@@ -57,7 +55,7 @@ YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고
 -   ***more detatils*** :  [github.com/KimHyung/autonomous_exploration](https://github.com/KimHyung/autonomous_exploration)
 -   ***Result :*** IROS 2021 submit.
 
-<img src = "./projects/2020_autonomous_driving_contest/images/1.png" width="60%">
+<img src = "./projects/2020_autonomous_driving_contest/images/1.png" width="70%">
 
 ### 2020_autonomous_driving_contest
 -   ***Introduce :*** 도로인프라와 연계된 실도로 기반 자율주행 경진대회, 차량 무선통신 인프라(WAVE)와 연계하여 실도로 기반의 “자율주행 픽업서비스” 미션 수행, Autoware.ai(ros1) 기반으로 자율주행 시스템을 개발하였고 실차(Soul – Hyundai)에 적용하였습니다.
@@ -88,7 +86,7 @@ YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고
 -   ***Related technology :*** C, openCV, ECU.
 -   ***My role :*** Team leader, PM, vision-based autonomous algorithm.(contribution: 40%)
 -   ***Result :*** 결선 진출.
-----
+---
 <!-- ## 지인 평가
  ### [양한솔](https://github.com/hansol-yang)(IOS/Android Front Developer, [SonsSoft](https://www.engflip.com/))
 > 이새끼 졸라 잘함 걍 잘함 진영이 인정?
