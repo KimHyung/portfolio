@@ -27,11 +27,13 @@ Interested in autonomous system, path planning, robotics.
 - YOLO--based, RCNN-based, openCV-based 와 같은 객체 인식 및 추적 알고리즘에 대해 공부하였고 실습하였습니다.
 ---
 ## Publications
-### Domestic
--  김형석, 이현범 "효율적인 프론티어 선정을 통한 모바일 로봇의 자율 탐사 및 의미지도 작성 기술", 제어.로봇.시스템학회 논문지, 2020
+### International
+- Hyungseok Kim, Hyungjin Kim, Seon-il Lee, Heyonbeom Lee, "Autonomous Exploration in a Cluttered Environment for a Mobile Robot With 2D-Map Segmentation and Object Detection",  IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 6343-6350, July 2022
 ### Conferences
 - Seon-il Lee, Hyungseok Kim, Uikyum Kim, Heyonbeom Lee, "Concave Wall Surface Tracking for Aerial Manipulator Using Contact Force Estimation Algorithm", 20th International Conference on Control, Automation and Systems, Busan, Korea (Oct.2020)
 - Hyungseok Kim, Hyeonbeom Lee, "Autonomous exploration with efficient frontier detection", KROS 2020, pyeongchang, Korea, (Aug.2020)
+### Domestic
+-  김형석, 이현범 "효율적인 프론티어 선정을 통한 모바일 로봇의 자율 탐사 및 의미지도 작성 기술", 제어.로봇.시스템학회 논문지, 2020
 ---
 
 ## Skills
