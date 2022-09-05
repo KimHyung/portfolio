@@ -39,7 +39,7 @@ Interested in autonomous system, path planning, robotics.
 ## Skills
 -   Language : C, C++, Python
 -   Frameworks : ROS
--  Etc : Git, Slack
+-  Etc : Git, Slack, Jira
 
 ---
 ## TODO
@@ -47,8 +47,58 @@ Interested in autonomous system, path planning, robotics.
   
 ---
 ## Projects
-<img src = "./projects/2021_autonomous_exploration/images/1.jpg" width="60%">
-<img src = "./projects/2021_autonomous_exploration/images/2.jpg" width="60%">
+---
+### 자율주행 임시운행 허가
+-   ***Introduce :*** WSCE 
+-   ***Term :*** 2022.08 ~ 2022.09
+-   ***My Role :***
+
+        1. SLAM
+        - NDT, LOAM, HDL
+        - Pure Localization
+        2. TF 
+        - WORLD, MAP, CAR, Base_link, Sensors
+        3.시나리오 구현
+        4. Wireless Network Configuration (Viewer) ↔  Extender ↔ (Car)
+
+---
+---
+### 자율주행 임시운행 허가
+-   ***Introduce :*** 카니발 차량 자율주행 임시운행 허가증 
+-   ***Term :*** 2021.08 ~ 2022.08
+-   ***My Role :***
+
+        1.CAN msg Analysis 
+        - ViCANDO, PCAN View, KVASER
+        - ECAN, CCAN, ICU, BCAN, DCAN, MFC LCAN
+        - MDPS, RSPA, Jerk, Radar, Lamp
+        - CRC Table & Algorithm
+
+        2.Hardware
+        - GPS (Novatel, SBG,  NMEA, Honeywell 0360, ByNAV X1
+        - CAN Gateway(HDMI2CSI, )
+        - Velodyne LiDARx3(32ch, 16ch x2) configuration, TF setup
+        - CAN Relay
+
+        3.Jetson NX
+        - ubuntu kernel HW tree (implement video lib lt6911uxc) 
+        - Jetson NX Implement
+        - gps/rtk(power level issue), RTCM
+        - Serial, UART
+        - GPIO (lamp control)
+
+        4. Software
+        - PCL (detector, tracker)
+        - HD MAP 관심 경로 추출
+        - 2 jetson + 1 pc network environment setup
+        - Path MAP
+
+-   ***Result :*** 임시운행 허가증 획득.
+<!-- -   ***more detatils*** :  [github.com/KimHyung/autonomous_exploration](https://github.com/KimHyung/autonomous_exploration) -->
+
+
+---
+---
 
 ### Autonomous exploration
 -   ***Introduce :*** Autonomous exploration strategy for a mobile robot with 2d-map segmentation and object detection in the cluttered environment.
@@ -57,7 +107,11 @@ Interested in autonomous system, path planning, robotics.
 -   ***more detatils*** :  [github.com/KimHyung/autonomous_exploration](https://github.com/KimHyung/autonomous_exploration)
 -   ***Result :*** IROS 2021 submit.
 
-<img src = "./projects/2020_autonomous_driving_contest/images/1.png" width="70%">
+<img src = "./projects/2021_autonomous_exploration/images/1.jpg" width="60%">
+<img src = "./projects/2021_autonomous_exploration/images/2.jpg" width="60%">
+
+---
+---
 
 ### 2020_autonomous_driving_contest
 -   ***Introduce :*** 도로인프라와 연계된 실도로 기반 자율주행 경진대회, 차량 무선통신 인프라(WAVE)와 연계하여 실도로 기반의 “자율주행 픽업서비스” 미션 수행, Autoware.ai(ros1) 기반으로 자율주행 시스템을 개발하였고 실차(Soul – Hyundai)에 적용하였습니다.
@@ -67,8 +121,10 @@ Interested in autonomous system, path planning, robotics.
 -   ***more detatils*** : <strike>[github.com/KimHyung/autoware_carla](https://github.com/KimHyung/autoware_carla)</strike>
 -   ***Result :*** [contest video](https://www.youtube.com/watch?v=usnD_GxowE0).
 
-<img src = "./projects/2019_capstone_design/images/1.png" width="30.7%">
-<img src = "./projects/2019_capstone_design/images/2.png" width="45%">
+<img src = "./projects/2020_autonomous_driving_contest/images/1.png" width="70%">
+
+---
+---
 
 ### 2019_capstone_design(smart sidewalk block)
 -   ***Introduce :*** ‘무게센서 보도 블록을 이용한 스마트 신호등’은 무게센서를 이용해서 신호등의 사이클 타임을 제어하여 효율적으로 교통을 관리하며, 시각장애인이 보다 편리하고 안전하게 횡단보도를 이용할 수 있도록 도와주는 시스템이다.
@@ -78,7 +134,11 @@ Interested in autonomous system, path planning, robotics.
 -   ***more detatils*** :  [특허정보-kportal, 10-2225213-0000](http://kportal.kipris.or.kr/kportal/search/total_search.do)
 -   ***Result :*** 국내특허 출원.
 
-<img src = "./projects/2017_embeded_software_contest/images/4.png" width="">
+<img src = "./projects/2019_capstone_design/images/1.png" width="30.7%">
+<img src = "./projects/2019_capstone_design/images/2.png" width="45%">
+
+---
+---
 
 ### 2017_embeded_software_contest (자율주행 모형자동차 부문)
 -   ***Introduce :*** KESSIA, KEIT가 주관하고 현대자동차가 후원하는 제 15회 임베디드 소프트웨어 공모전 자율주행 모형자동차 부문에 참여하였다. 모형자동차에 부착된 비전센서를 데이터를 기반으로 openCV라이브러리를 통해 차선, 정지선, 신호등 등을 인식하여 주행하는 자율주행 시스템을 개발하였다. 
@@ -86,6 +146,8 @@ Interested in autonomous system, path planning, robotics.
 -   ***Related technology :*** C, openCV, ECU.
 -   ***My role :*** Team leader, PM, vision-based autonomous algorithm.(contribution: 40%)
 -   ***Result :*** 결선 진출.
+<img src = "./projects/2017_embeded_software_contest/images/4.png" width="">
+---
 ---
 ##### 더 궁금한 사항이 있으시면 kty5989@gmail.com 으로 연락주세요.
 ##### 
